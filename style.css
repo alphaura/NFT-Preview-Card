@@ -8,7 +8,26 @@ body {
     background-color: hsl(217, 54%, 11%);
 }
 
+.card {      
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 
+/* .card part is used for the main background and to center the container including its content */
+
+.container {
+    background-color: blue;
+    height: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+/* .container will be used to create the sizing of the card itself and to center the content within */
 
 
 
