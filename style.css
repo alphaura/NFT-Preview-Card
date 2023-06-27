@@ -60,6 +60,8 @@ img {
 
 .image__overlay:hover {
     opacity: 1;
+    cursor: pointer;
+
 }
 
 .overlay-svg {
